@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[881],{8881:function(t){t.exports=JSON.parse('{"collection":"https://portail.biblissima.fr/iiif/collection/ark:/43093/coldata812a3f7e03e0bc6b22826de508020abe7c6e8dff","featured":["https://digi.vatlib.it/iiif/MSS_Vat.lat.811/manifest.json"],"metadata":["Date"]}')}}]);
